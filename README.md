@@ -51,5 +51,5 @@ The following Questions were answered by the use of the [`queries`](https://gith
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 # References 
-[1] QuickDBD https://app.quickdatabasediagrams.com/#/
-[2] SQL Data Types https://www.w3schools.com/sql/sql_datatypes.asp 
+- [1] QuickDBD https://app.quickdatabasediagrams.com/#/
+- [2] SQL Data Types https://www.w3schools.com/sql/sql_datatypes.asp 
