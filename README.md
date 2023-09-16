@@ -39,39 +39,16 @@ Steps completed:
   [`titles`] [`employees`] [`departments`] [`department_manager`] [`department_employee`] [`salaries`]
 
 # Data Analysis Questions
-The following Questions were answered by the use of the [`queries`](https://github.com/jflengkong/SQL-challenge/blob/main/Schematas/queries.sql). 
+The following Questions were answered by the use of the [`queries`](https://github.com/jflengkong/SQL-challenge/blob/main/Schematas/queries.sql) and outputs in [`output`](https://github.com/jflengkong/SQL-challenge/tree/main/Ouput).
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
-
-![one](https://github.com/jflengkong/SQL-challenge/blob/main/Ouput/1.%20Query_one.png)
-
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
-
-![two](https://github.com/jflengkong/SQL-challenge/blob/main/Ouput/2.query_two.png)
-
-4. List the manager of each department along with their department number, department name, employee number, last name, and first name.
-
-![3](https://github.com/jflengkong/SQL-challenge/blob/main/Ouput/3.query_three.png)
-
-5. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
-
-![4](https://github.com/jflengkong/SQL-challenge/blob/main/Ouput/4.query_four.png)
-
-6. List the first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
-
-![5](https://github.com/jflengkong/SQL-challenge/blob/main/Ouput/5.query_five.png)
-
-7. List each employee in the Sales department, including their employee number, last name, and first name.
-
-![6](https://github.com/jflengkong/SQL-challenge/blob/main/Ouput/6.query_six.png)
-
-8. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
-
-![7](https://github.com/jflengkong/SQL-challenge/blob/main/Ouput/7.query_seven.png)
-
-9. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
-
-![8](https://github.com/jflengkong/SQL-challenge/blob/main/Ouput/8.query_eight.png)
+3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
+4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name
+5. List the first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
+6. List each employee in the Sales department, including their employee number, last name, and first name.
+7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 # References 
 [1] QuickDBD https://app.quickdatabasediagrams.com/#/
