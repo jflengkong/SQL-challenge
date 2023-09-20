@@ -25,12 +25,6 @@ These were the completed table creation code and queries completed through pgAdm
 The CSV files were inspected and an ERD of the tables was created to give a visual overview of primary and foreign keys. 
 ![ERD](https://github.com/jflengkong/SQL-challenge/blob/main/ERD.png) 
 
-### Table relationships 
-- [`titles`] and [`employees`] have a one-to-many relationship. 
-- [`departments`] and [`department_manager`] have a one-to-one relationsihp. 
-- [`departments`] and [`department_employee`] have a one-to-one relationship.
-- [`employees`] and [`salaries`] have a one-to-many relationship.
-
 # Data Engineering 
 Steps completed: 
 1. Identify **PRIMARY KEY** and **FOREIGN KEY**
